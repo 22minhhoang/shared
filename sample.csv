@@ -1,0 +1,214 @@
+﻿name,year,group,description,leakSiteOnlineLast2Weeks,hasLeakSite,utilizeHackerForums,utilizeTelegram,notComfirmActivity,noExposureActivities,shadowSyndigate,parents,relationType
+DEFRAY777,2018,A,,,,,,,y,,,
+MEDUSA,2019,A,,y,y,y,y,,,,,
+PWNDLOCKER,2019,A,,,,,,,y,,,
+RANSOM EXX,2020,A,,y,y,,,,,,DEFRAY777,Rebrand
+AKO,2020,A,,,y,,,,,,MEDUSA,Relationship
+THUNDER X,2020,A,,,y,,,,,,AKO,Rebrand
+RANZY LOCKER,2020,A,,,y,,,,,,THUNDER X,Rebrand
+PROLOCK,2020,A,,,,,,,y,,PWNDLOCKER,Rebrand
+CHAOS,2021,A,,,,,,,y,,,
+ATOMSILO,2021,A,,,y,,,,,,,
+ONYX,2022,A,,,y,,,,,,CHAOS,Relationship
+VSOP,2022,A,,,y,,,,,,ONYX,Rebrand
+YASHMA,2022,A,,,,,,,y,,CHAOS,Rebrand
+SOLIDBIT,2022,A,,,y,,,,,,YASHMA,Relationship
+LOCKDATA,2022,A,,,y,,,,,,CHAOS,Relationship
+PANDORA,2022,A,,,y,,,,,,ROOK,Rebrand
+"CATB (CATB99, BAXTOY)",2022,A,,,,,,,y,,PANDORA,Relationship
+BLACKSNAKE,2023,A,,,,,,,y,,CHAOS,Relationship
+CLOAK,2023,A,,y,y,,,,,,,
+CHACHA,2019,B,,,,,,,y,,,
+RAGNAR LOCKER,2019,B,,y,y,,,,,,,
+SUNCRYPT,2019,B,,,y,,,,,,,
+MAZE,2019,B,,,y,,,,,,CHACHA,Rebrand
+SEKHMET,2020,B,,,y,,,,,,,
+EGREGOR,2020,B,,,y,,,,,,PROLOCK|SEKHMET|MAZE,Relationship|Relationship|Rebrand
+VASA LOCKER (BABY),2020,B,,,,,,,y,,,
+LOCKFILE,2021,B,,,y,,,,,,,
+BABUK,2021,B,,y,y,,,,,,VASA LOCKER (BABY)|ASTRO (ASTRA),Rebrand|Relationship
+ROOK,2021,B,,,y,,,,,,BABUK,Relationship
+NIGHT SKY,2021,B,,,y,,,,,,ROOK,Relationship
+BIANLIAN,2021,B,,y,y,,,y,,,,
+PAYLOAD.BIN,2021,B,,,y,,,,,,BABUK,Rebrand
+X001XS,2022,B,,,y,,,,,,ROOK,Relationship
+CHEERS,2022,B,,,y,,,,,,BIANLIAN|BABUK,Relationship|Relationship
+DARK ANGELS,2022,B,,,y,,,,,,BABUK,Rebrand
+GOOD DAY,2023,B,,,,,,,y,,CLOAK,Relationship
+DUNGHILL,2023,B,,y,y,,y,,,,DARK ANGELS,Rebrand
+MOUNT LOCKER,2020,C,,,y,,,,,,,
+ASTRO (ASTRA),2021,C,,,y,,,,,,,
+XING,2021,C,,,y,,,,,,,
+GROOVE,2021,C,,,y,,,,,,BABUK,Rebrand
+RAMP,2021,C,,,,,,,,,GROOVE,Relationship
+QUANTUM,2021,C,,y,y,,,,,y,MOUNT LOCKER|CONTI|VICE SOCIETY,Rebrand|Relationship|Relationship
+DAIXIN,2022,C,,y,y,,,,,,BABUK,Relationship
+DAGON,2022,C,,,,,,,y,,QUANTUM,Relationship
+RA GROUP,2023,C,,y,y,,,,,,BABUK,Relationship
+HERMES,2017,D,,,,,,,y,,,
+RYUK,2018,D,,,,,,,y,y,HERMES,Relationship
+JSWORM,2019,D,,,,,,,y,,,
+NEMTY,2019,D,,,y,,,,,,JSWORM,Rebrand
+CONTI,2019,D,,,y,,,,,y,RYUK,Relationship
+NEFILIM,2020,D,,,y,,,,,,NEMTY,Rebrand
+WHITERABBIT (MARIO),2021,D,,,,,,,y,,BABUK,Relationship
+KARMA,2021,D,,,y,,,,,,NEFILIM,Rebrand
+HIVE,2021,D,,,y,,,,,,CONTI,Relationship
+RANSOMHOUSE,2021,D,,y,y,,y,y,,,HIVE|BIANLIAN|WHITERABBIT (MARIO)|LAPSUS$,Relationship|Relationship|Relationship|Relationship
+AVOSLOCKER,2021,D,,,y,,,,,,CONTI,Relationship
+NOKOYAWA,2022,D,,y,y,,,,,y,BABUK|KARMA,Relationship|Relationship
+NEVADA,2022,D,,,y,y,,,,,NOKOYAWA,Relationship
+PLAY,2022,D,,y,y,,,,,y,,
+NB65,2022,D,,,,,,,y,,CONTI,Relationship
+DONUT,2022,D,,y,y,,,,,,HIVE|MONTI,Relationship|Relationship
+EVEREST,2020,E,,y,y,,,,,,RANSOMED.VC,Relationship
+LAPSUS$,2021,E,,,,,y,y,,,,
+BLACKBYTE,2021,E,,y,y,,,,,,CONTI|EVEREST,Relationship|Relationship
+KARAKURT,2021,E,,,y,,,y,,,CONTI,Relationship
+DIAVOL,2021,E,,,,,,,y,,CONTI|KARAKURT,Relationship|Relationship
+MONTI,2022,E,,y,y,,,,,,CONTI,Relationship
+SILENT RANSOM GROUP,2022,E,,,,,,,y,,CONTI,Relationship
+PUTIN TEAM,2022,E,,,,,y,,,,CONTI,Relationship
+SCARECROW,2022,E,,,,,,,y,,CONTI,Relationship
+BLUESKY,2022,E,,y,,,,,,,CONTI,Relationship
+MEOW,2022,E,,,,,,,y,,CONTI,Relationship
+TOMMYLEAKS,2022,E,,,,,,,y,,KARAKURT,Relationship
+SCHOOLBOYS,2022,E,,,,,,,y,,KARAKURT,Relationship
+RANSOMED.VC,2023,E,,y,y,y,y,y,,,,
+VEGA,2019,F,,,,,,,y,,,
+ZEPPELIN,2019,F,,,,,,,y,,VEGA|VICE SOCIETY,Relationship|Relationship
+HELLO KITTY (FIVE HANDS),2020,F,,,y,,,,,,CONTI|VICE SOCIETY,Relationship|Relationship
+ALPHV (BLACKCAT),2021,F,,y,y,,,,,y,CONTI|BLACKMATTER,Relationship|Relationship
+VICE SOCIETY,2021,F,,y,y,,,,,,ALPHV (BLACKCAT)|REDALERT (N13V),Relationship|Relationship
+YANLUOWANG,2021,F,,,y,,,,,,LAPSUS$|HELLO KITTY (FIVE HANDS),Relationship|Relationship
+ZEON,2022,F,,,,,,,y,,CONTI,Relationship
+REDALERT (N13V),2022,F,,,y,,,,,,,
+POLYVICE,2022,F,,,,,,,y,,VICE SOCIETY,Rebrand
+ROYAL,2022,F,,y,y,,,,,y,ZEON|ALPHV (BLACKCAT),Rebrand|Relationship
+BLACKSUIT,2023,F,,y,y,,,,,,ROYAL,Relationship
+METAENCRYPTOR,2023,F,,y,y,,,,,,,
+LOSTTRUST,2023,F,,y,y,,,,,,METAENCRYPTOR,Rebrand
+EVILCORP,2015,G,,,,,,,y,,,
+CRYPTOMIX,2016,G,,,,,,,y,,,
+CRYPTON,2017,G,,,y,,,,,,,
+BITPAYMER,2017,G,,,,,,,y,,EVILCORP,Relationship
+CLOP,2019,G,,y,y,,,,,y,CRYPTOMIX,Relationship
+LOCKBIT (ABCD),2019,G,,,y,,,,,,,
+DOPPELPAYMER,2019,G,,,y,,,,,,BITPAYMER,Rebrand
+DARKSIDE,2020,G,,,,,,,y,,,
+BLACKMATTER,2021,G,,,y,,,,,,DARKSIDE,Rebrand
+MACAW LOCKER,2021,G,,,,,,,y,,EVILCORP,Relationship
+GRIEF,2021,G,,,y,,,,,,DOPPELPAYMER,Rebrand
+ENTROPY,2021,G,,,y,,,,,,GRIEF,Rebrand
+LOCKBIT2.0 (LOCKBIT RED),2021,G,,,y,,,,,,LOCKBIT (ABCD)|EVILCORP|CRYPTON|BADLOCK (RORSCHACH),Rebrand|Relationship|Relationship|Relationship|Relationship
+BLACK BASTA,2022,G,,y,y,,,,,,CONTI,Relationship
+BADLOCK (RORSCHACH),2022,G,,,,,,,y,,,
+LOCKBIT3.0 (LOCKBIT BLACK),2022,G,,y,y,,,,,,LOCKBIT2.0 (LOCKBIT RED)|CONTI|HARDBIT|BLOODY|THREEAM|SCHOOLBOYS|ALPHV (BLACKCAT)|BLACKMATTER,Rebrand|Relationship|Relationship|Relationship|Relationship|Relationship|Relationship|Relationship
+BIG HEAD,2023,G,,,,,,,y,,,
+CIPHERLOCKER,2023,G,,,y,,,,,,,
+AKIRA,2023,G,,y,y,,,,,,,
+MONEY MESSAGE,2023,G,,y,y,,,,,,,
+CACTUS,2023,G,,y,y,,,,,y,,
+THREEAM,2023,G,,y,y,,,,,,,
+DARK POWER,2023,G,,,y,,,,,,,
+DARKRACE,2023,G,,y,y,,,,,,,
+CERBER,2016,H,,,,,,,y,,,
+CRYSIS,2016,H,,,,,,,y,,,
+DHARMA,2016,H,,,,,,,y,,CRYSIS,Relationship
+MY DECRYPTER (MAGNIBER),2017,H,,,,,,,y,,CERBER,Relationship
+SYNACK,2017,H,,,,,,,y,,,
+GANDCRAB,2018,H,,,,,,,y,,CERBER,Rebrand
+PHOBOS,2018,H,,,,,,,y,,DHARMA,Relationship
+REVIL (SODINOKIBI),2019,H,,,y,,,,,,GANDCRAB,Rebrand
+WASTEDLOCKER,2020,H,,,,,,,y,,BITPAYMER,Relationship
+HADES,2020,H,,,,,,,y,,WASTEDLOCKER,Rebrand
+LV,2020,H,,,y,,,,,,REVIL (SODINOKIBI),Relationship
+ONEPERCENT,2020,H,,,,,,,y,,REVIL (SODINOKIBI),Relationship
+ERUPTION,2020,H,,,,,,,y,,,
+AVADDON,2020,H,,,,,y,,,,,
+PHOENIX LOCKER,2021,H,,,,,,,y,,HADES,Rebrand
+RANSOM CARTEL,2021,H,,,,,,,y,,REVIL (SODINOKIBI),Relationship
+ARCANE,2021,H,,,,,,,y,,ERUPTION,Rebrand
+SABBATH,2021,H,,,y,,,,,,ARCANE,Rebrand
+EL_COMETA,2021,H,,,y,,,,,,SYNACK,Rebrand
+HARON,2021,H,,,y,,,,,,AVADDON|THANOS,Relationship|Relationship
+MIDAS,2021,H,,,y,,,,,,HARON,Rebrand
+BLOODY,2022,H,,,,,y,,,,,
+HARDBIT,2022,H,,,,,,,y,,,
+8BASE,2022,H,,y,y,,y,,,,,
+AXXES,2022,H,,,y,,,,,,MIDAS,Rebrand
+CRYPTBB,2023,H,,y,y,,,,,,8BASE,Relationship
+LA PIOVRA,2023,H,,y,y,,,,,,,
+RHYSIDA,2023,H,,y,y,,,,,,,
+INC RANSOM,2023,H,,y,y,,,,,,,
+JIGSAW,2016,I,,,,,,,y,,,
+THANOS,2019,I,,,,,,,y,,,
+MAILTO,2019,I,,,,,,,y,,,
+NETWALKER,2020,I,,,y,,,,,,MAILTO,Rebrand
+PROMETHEUS,2021,I,,,y,,,,,,THANOS,Relationship
+SPOOK,2021,I,,,y,,,,,,PROMETHEUS,Rebrand
+LOKI LOCKER,2021,I,,,,,,,y,,,
+HOLYGHOST,2021,I,,,y,,,,,,,
+ESXIARGS,2022,I,,,,,,,y,,,
+BLACKBIT,2022,I,,,,,,,y,,LOKI LOCKER,Relationship
+TRIGONA,2022,I,,y,y,,,,,,CRYKAL / CRYLOCK,Relationship
+KNIGHT,2023,I,,y,y,,,,,,CYCLOPS,Rebrand
+NOESCAPE,2023,I,,y,y,,,,,,AVADDON,Relationship
+MALAS,2023,I,,y,y,,,,,,,
+CRYPTNET,2023,I,,y,y,,,,,,,
+CYCLOPS,2023,I,,y,y,,,,,,,
+CIPHBIT,2023,I,,y,y,,,,,,,
+SHADOW,2023,I,,,,,,,y,,,
+BLACKDOLPHIN,2023,I,,y,y,,,,,,,
+RANCOZ,2023,I,,y,y,,,,,,,
+V IS VENDETTA,2023,I,,y,y,,,,,,,
+CRYKAL / CRYLOCK,2015,J,,,,,,,y,,,
+N4UGHTYSEC,2015,J,,,,,y,,,,,
+HITLER (AGL0BGVYCG),2016,J,,,,,,,y,,,
+ECH0RAIX,2017,J,,,,,,,y,,,
+RANION,2017,J,,,,,,,y,,,
+SNATCH,2018,J,,y,y,,y,,,,,
+PYSA / MESPINOZA,2019,J,,,y,,,,,,,
+RAGNAROK,2019,J,,,y,,,,,,,
+ROBBINHOOD,2019,J,,,y,,,,,,,
+ARVINCLUB,2019,J,,y,y,,y,,,,,
+CUBA,2019,J,,y,y,,,,,,V IS VENDETTA,Relationship
+PAY2KEY,2020,J,,,y,,,,,,,
+BLACKSHADOW (SPECTRAL KITTEN),2020,J,,,y,,y,,,,PAY2KEY,Relationship
+NEBULA,2020,J,,,,,,,y,,,
+FONIX (XINOF),2020,J,,,,,,,y,,,
+EXORCIST,2020,J,,,,,,,y,,,
+SZ40,2020,J,,,,,,,y,,,
+LORENZ,2021,J,,y,y,,,,,,SZ40,Rebrand
+BONACI GROUP,2021,J,,,y,,,,,,,
+STORMOUS,2021,J,,y,y,,y,y,,,,
+MALLOX (FARGO),2021,J,,y,y,,,,,,,
+NETWORM (N3TW0RM),2021,J,,,y,,,,,,,
+BL4CKT0R,2021,J,,y,y,,,,,,,
+COOMING PROJECT,2021,J,,,y,,,,,,,
+MBC,2021,J,,,y,,y,,,,,
+HELLB0RN,2021,J,,,,y,,,,,,
+HOTARUS,2021,J,,,,,,,y,,,
+EP918,2021,J,,,,,,,y,,,
+DARKRYPT,2021,J,,y,y,,,,,,,
+SUGAR,2021,J,,,,,,,y,,,
+QLOCKER,2021,J,,,,,,,y,,,
+SNAPMC,2021,J,,,,,,,y,,,
+BABYDUCK,2021,J,,,,,,,y,,,
+BLACKMAGIC,2022,J,,,,y,y,,,,,
+RADAR,2022,J,,,,y,,,,,,
+BULLY,2022,J,,,,y,y,,,,,
+SPARTA,2022,J,,,y,,,,,,,
+LILITH,2022,J,,,y,,,,,,,
+SHAOLEAKS,2022,J,,,y,,,,,,,
+OMEGA,2022,J,,y,y,,,,,,,
+MINDWARE,2022,J,,,y,,,,,,,
+UNSAFE,2022,J,,y,y,,,y,,,,
+QILIN (AGENDA),2022,J,,y,y,,,,,,,
+PROJECT RELIC,2022,J,,,y,,,,,,,
+ICEFIRE,2022,J,,,,,,,y,,,
+MOISHA,2022,J,,,,,,,y,,,
+ENDURANCE,2022,J,,,,,,,y,,,
+CHILE LOCKER (ARCRYPTER),2022,J,,,,,,,y,,,
+ABYSS,2023,J,,y,y,,,,,,,
+DARKBIT,2023,J,,,y,,y,,,,,
